@@ -57,3 +57,11 @@ Before you start, make sure you have:
     ```bash
     uv run uvicorn app.fast_api_app:app --reload
     ```
+
+## License
+
+Shopping Assistant Agent is released under the [MIT license](./LICENSE.md).
+
+## Copyright
+
+copyright:: (c) Copyright 2026 Conrad Taylor. All Rights Reserved.
